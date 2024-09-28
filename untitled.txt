@@ -1,0 +1,8 @@
+DetectFakeAccounts is a web-based application designed to help users identify and report fake accounts on social media platforms. The tool utilizes basic algorithms to analyze user profiles and flag suspicious behavior. This project is aimed at promoting online safety and improving the authenticity of social media interactions. 
+
+Features:
+- User-friendly interface for easy navigation
+- Basic profile analysis to detect potential fake accounts
+- Option to report suspicious accounts
+
+This project is a college assignment and is open for contributions and feedback.
